@@ -1,2 +1,2 @@
 # resume
-A resume web about me
+https://aleixperez6.github.io/resume/
